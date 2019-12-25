@@ -5,5 +5,5 @@ User-agent: AdsBot-Google
 Disallow: /
 
 User-agent: * 
-Disallow: /
+Disallow: /dummy.html
 
